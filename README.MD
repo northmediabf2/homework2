@@ -31,9 +31,9 @@
 
 
 Запуск лабы: vagrant up
-vagrant ssh
+    vagrant ssh
 
 * Vagrantfile
-![Vagrantfile](Vagrantfile)
+![VagrantFile](Vagrantfile)
 * lsblk
-![Vagrantfile](lsblk.png)
+![lsblk](lsblk.png)
